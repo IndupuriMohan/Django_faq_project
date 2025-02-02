@@ -1,0 +1,1 @@
+# Django_faq_project
